@@ -36,8 +36,8 @@ I'm a passionate technologist with a focus on AI research, data science, and eth
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/jsevilla/)
-- [Twitter/X](https://twitter.com/javiersevilla1)
-- Email: javier.sevilla [at] example.com
+- [Twitter/X](https://twitter.com/javiersevilla)
+
 
 ---
 
